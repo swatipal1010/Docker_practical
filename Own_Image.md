@@ -10,5 +10,11 @@
 - To communicate with the image, type **"localhost:8080"** in the browser since container listens on port 8080.
 ![image](https://github.com/swatipal1010/Docker_practical/assets/110754474/7c71e4f7-b340-43cb-93b6-f30ab246f171)
 
+- Execute **"docker inspect my_flask_app:1.2"** command to ge the details about the image like the number of layers it is composed of.
+![image](https://github.com/swatipal1010/Docker_practical/assets/110754474/19be6a50-9f83-41c5-a1a2-11712e878f1a)
+
+
+
+
 
  
